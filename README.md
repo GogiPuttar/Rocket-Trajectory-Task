@@ -7,7 +7,7 @@ The simulation of the rocket can account for these factors:
 * Mass flow rate and exit velocity of gas during propulsion
 * Changing gravity with height
 * Control over gas propulsion cycles as a function of time
-* Drag force from the air
+* Drag force from the atmosphere
 
 The simulation cannot account for:
 * Curvature of the planet 
